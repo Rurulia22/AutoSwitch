@@ -30,7 +30,6 @@ Sistem dapat bekerja otomatis berdasarkan cahaya & gerakan, dikontrol manual lew
 | LDR VCC  | 3.3V     | Daya |
 | Semua GND| GND      | Ground bersama |
 
-*Wiring photo under construction!*
 
 ---
 
