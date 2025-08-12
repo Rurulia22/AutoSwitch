@@ -1,6 +1,6 @@
-# AutoSwitch_V1
+# AutoSwitch
 
-Proyek **AutoSwitch_V1** adalah sistem otomatis untuk mengontrol saklar lampu menggunakan **ESP32**, **sensor PIR**, **LDR**, dan **servo**.  
+Proyek **AutoSwitch** adalah sistem otomatis untuk mengontrol saklar lampu menggunakan **ESP32**, **sensor PIR**, **LDR**, dan **servo**.  
 Sistem dapat bekerja otomatis berdasarkan cahaya & gerakan, dikontrol manual lewat **Blynk** atau **Bluetooth**.
 
 ---
