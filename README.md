@@ -89,7 +89,7 @@ You are free to use, modify, and distribute it with attribution.
 
 ## 🙌 Credits
 
-Created by **[Your Name]**  
+Created by **Ruruu & BITVEL22**  
 Third-party libraries:
 - [ESP32Servo](https://github.com/madhephaestus/ESP32Servo) (MIT License)
 - [Blynk](https://github.com/blynkkk/blynk-library) (Apache 2.0 License)
